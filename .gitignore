@@ -1,0 +1,11 @@
+# Ignore the api_keys.py file
+api_keys.py
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore all __pycache__ directories
+__pycache__/
+
+# Ignore all .pyc files
+*.pyc
